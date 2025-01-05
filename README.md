@@ -8,13 +8,13 @@
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/AryamanPurohit/SBFinal.git
+git clone https://github.com/AryamanPurohit/StudyBuddyDjango.git
 
 ```
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd SBFinal
+cd StudyBuddyFinal
 
 ```
 
